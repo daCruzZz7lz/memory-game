@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#-introducao">Introdução</a> |
   <a href="#-funcionalidades">Funcionalidades</a> |
-  <a href="-#como-usar">Como usar</a> |
+  <a href="#-como-usar">Como usar</a> |
   <a href="#-imagens">Imagens</a> |
   <a href="#-licenca">Licença</a>
 </p># Meu Projeto
