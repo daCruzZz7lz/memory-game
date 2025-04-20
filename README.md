@@ -1,18 +1,18 @@
 <p align="center">
-  <a href="#introducao">Introdução</a> |
-  <a href="#funcionalidades">Funcionalidades</a> |
-  <a href="#como-usar">Como usar</a> |
-  <a href="#imagens">Imagens</a> |
-  <a href="#licenca">Licença</a>
+  <a href="#-introducao">Introdução</a> |
+  <a href="#-funcionalidades">Funcionalidades</a> |
+  <a href="-#como-usar">Como usar</a> |
+  <a href="#-imagens">Imagens</a> |
+  <a href="#-licenca">Licença</a>
 </p># Meu Projeto
 
 ## Índice
 
-- [Introdução](#introducao)
-- [Funcionalidades](#funcionalidades)
-- [Como usar](#como-usar)
-- [Imagens](#imagens)
-- [Licença](#licenca)
+- [Introdução](#-introducao)
+- [Funcionalidades](#-funcionalidades)
+- [Como usar](#-como-usar)
+- [Imagens](#-imagens)
+- [Licença](#-licenca)
 
 ## 😄 Introducao
 
