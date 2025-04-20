@@ -14,7 +14,7 @@
 - [Imagens](#imagens)
 - [Licença](#licenca)
 
-## Introducao
+## 😄 Introducao
 
 Algum texto aqui...Uma pala de texto bem grande
 Uma pala de texto bem grande
@@ -54,7 +54,7 @@ Uma pala de texto bem grande
 Uma pala de texto bem grande
 
 
-## Funcionalidades
+## 🤔 Funcionalidades
 
 - Funcionalidade 1
 - Funcionalidade 2
@@ -96,7 +96,7 @@ Uma pala de texto bem grande
 Uma pala de texto bem grande
 
 
-## Como usar
+## 👀 Como usar
 
 Passos para rodar o projeto...
 Uma pala de texto bem grande
@@ -137,7 +137,7 @@ Uma pala de texto bem grande
 Uma pala de texto bem grande
 
 
-## Imagens
+## 💓 Imagens
 
 ![Protótipo](assets/prototipo.png)
 Uma pala de texto bem grande
@@ -178,7 +178,7 @@ Uma pala de texto bem grande
 Uma pala de texto bem grande
 
 
-## Licenca
+## 😐 Licenca
 
 MIT License
 Uma pala de texto bem grande
